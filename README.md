@@ -3,7 +3,14 @@
 -configured Tailwindcss
 -header
 -Login form(sign-in)
--signup
+-signup form 
+-form Validation
+-useRef hook
+-Firebase setup
+-Deploying our app to production
+-create SignUp user account
+-
+
 
 
 
